@@ -2,8 +2,8 @@
 Fábrica em Caos"Onde o 'bom dia' vale 3 pontos de clima organizacional."      
 
 ## Sobre o ProjetoHR Overdrive: 
-### Fábrica em Caos é um jogo de ação e gerenciamento de tempo inspirado na mecânica de Overcooked, desenvolvido como projeto prático para a disciplina de Rotinas de Pessoal II. 
-### No controle de um funcionário de Recursos Humanos / Departamento Pessoal, sua missão é correr pela fábrica para atender às solicitações urgentes dos colaboradores dentro do tempo limite, mantendo a harmonia do ambiente de trabalho. 
+Fábrica em Caos é um jogo de ação e gerenciamento de tempo inspirado na mecânica de Overcooked, desenvolvido como projeto prático para a disciplina de Rotinas de Pessoal II. 
+No controle de um funcionário de Recursos Humanos / Departamento Pessoal, sua missão é correr pela fábrica para atender às solicitações urgentes dos colaboradores dentro do tempo limite, mantendo a harmonia do ambiente de trabalho. 
 
 ## Mecânicas e DemandasDurante o expediente, os colaboradores apresentam diferentes necessidades com mensagens variadas e dinâmicas:👷 Falta EPI!: Vá até o Almoxarifado, pegue um capacete e entregue ao trabalhador.   
 
@@ -26,10 +26,10 @@ tkinter: Construção da interface gráfica, menus, renderização do mapa e mov
 random: Geração aleatória de demandas e mensagens diversificadas para cada colaborador.
 
 ## Como Executar
-### Certifique-se de ter o Python 3 instalado em sua máquina (com suporte ao tkinter, já incluso na instalação padrão).
+Certifique-se de ter o Python 3 instalado em sua máquina (com suporte ao tkinter, já incluso na instalação padrão).
 Clone este repositório ou baixe os arquivos do projeto:
 Bashgit clone <url-do-repositorio>
 cd <pasta-do-projeto>
 
-### Execute o arquivo principal do jogo:
+Execute o arquivo principal do jogo:
 Bashpython main.py
